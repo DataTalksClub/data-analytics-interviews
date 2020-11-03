@@ -1,7 +1,6 @@
 # Data Analytics Interview Questions
 Data analytics interview questions and answers
 
-
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
