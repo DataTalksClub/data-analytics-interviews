@@ -1,6 +1,12 @@
 # Data Analytics Interview Questions
 Data analytics interview questions and answers
 
+
+* [technical.md](technical.md)
+* [case_studies.md](case_studies.md)
+* [coding_challenges.md](coding_challenges.md)
+* [behavioral.md](behavioral.md)
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
