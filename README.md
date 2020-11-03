@@ -2,7 +2,7 @@
 Data analytics interview questions and answers
 
 
-* [technical.md](technical.md)
+* [conceptual.md](conceptual.md)
 * [case_studies.md](case_studies.md)
 * [coding_challenges.md](coding_challenges.md)
 * [behavioral.md](behavioral.md)
