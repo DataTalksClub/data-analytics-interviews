@@ -6,3 +6,4 @@
   * always structure the story in a way that it had a positive outcome and what you learned from that experience
 3. Tell me about a previous position mentioned in your CV and what you liked most about it.
 4. What are you data weaknesses (techniques) at the moment and how are you addressing them?
+5. Can use [Pramp](https://www.pramp.com/dashboard#/) platform for mock interviews

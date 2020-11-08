@@ -1,5 +1,5 @@
 1. How did you train in data science?
-  * good to mention if you took initiative in self-learning or onine courses
+  * good to mention if you took initiative in self-learning or online courses
   * if had formal training at a previous internship, college courses or a bootcamp mention as well as to show have solid and structured programming skills
 2. What do you do at your current project?
   * can give a very brief description what the project is about BUT very important to highlight what contributions you've made (data cleaning, scripts modeling etc.)
